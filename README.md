@@ -19,5 +19,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 
-![Screenshot of the deployed website]
-(https://hadiqaaziz.github.io/Module_1_assignment/)
+![Video link of the app]
+(https://drive.google.com/file/d/1k9faDqn1OodqVtdSu3YSaEVfA8G5-2rq/view)
