@@ -1,0 +1,18 @@
+{
+  "name": "Read-ME-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^8.2.4",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
