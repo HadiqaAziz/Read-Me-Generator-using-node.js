@@ -1,24 +1,63 @@
 # Read Me Generator
-This repository contains files of Module 9 Challenge
-## Acceptance Criteria
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
 
+This repository contains the files for a command-line application that generates a professional README.md file for your project.
 
-[video link to the app(https://drive.google.com/file/d/1QMzo34yCK5S8qXTf7fMiBj53hKuo95Rw/view)]
+## Features
 
+- **Dynamic README Generation**: Creates a README.md with sections for Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
+- **License Badge**: Includes a license badge at the top of the README.
+- **GitHub and Contact Information**: Adds your GitHub username and email address to the Questions section with relevant links and instructions.
+
+## How to Use
+
+1. **Clone the Repository**
+
+   Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/HadiqaAziz/Read-Me-Generator-using-node.js.git
+   cd Read-Me-Generator-using-node.js
+   ```
+
+2. **Install Dependencies**
+
+   Install the required dependencies using npm:
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the Application**
+
+   Start the application by running:
+
+   ```bash
+   npm start
+   ```
+
+   Follow the prompts to enter information about your project. The application will generate a professional README.md file based on your input.
+
+4. **View the README**
+
+   After generating the README, you can view and edit it in your project's directory. The file will include:
+
+   - **Title**: The title you provide for your project.
+   - **Description**: A description of your project.
+   - **Installation**: Instructions for installing your project.
+   - **Usage**: Information on how to use your project.
+   - **License**: A badge and notice about the chosen license.
+   - **Contributing**: Guidelines for contributing to your project.
+   - **Tests**: Instructions for running tests.
+   - **Questions**: Your GitHub profile link and email address for additional questions.
+
+## Video Demonstration
+
+For a walkthrough of the application, check out the video:
+
+[App Demonstration Video](https://drive.google.com/file/d/1QMzo34yCK5S8qXTf7fMiBj53hKuo95Rw/view)
+
+## Contributing
+
+Enjoy creating your README.md with ease! and Feel free to contribute by opening issues or submitting pull requests.
 
 
