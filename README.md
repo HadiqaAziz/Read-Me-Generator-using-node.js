@@ -50,12 +50,6 @@ This repository contains the files for a command-line application that generates
    - **Tests**: Instructions for running tests.
    - **Questions**: Your GitHub profile link and email address for additional questions.
 
-## Video Demonstration
-
-For a walkthrough of the application, check out the video:
-
-[App Demonstration Video](https://drive.google.com/file/d/1QMzo34yCK5S8qXTf7fMiBj53hKuo95Rw/view)
-
 ## Contributing
 
 Enjoy creating your README.md with ease! and Feel free to contribute by opening issues or submitting pull requests.
